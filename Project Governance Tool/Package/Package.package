@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="250c45a1-ca84-4269-8a74-e2258a688e54" 
+        solutionId="250c45a1-ca84-4269-8a74-e2258a688e54" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Project_Governance_Tool"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="a02fb535-9890-4b75-b276-e72e474fd95c" />
+  </features>
+</package>
